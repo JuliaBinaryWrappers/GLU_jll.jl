@@ -1,0 +1,91 @@
+[[GLU]]
+arch = "aarch64"
+git-tree-sha1 = "92e3f52131e72b890c8d4064fe9cb797c7d9e002"
+libc = "glibc"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "a2c1c7ee883b2af5e778cc4d0a8d5f093e7ea63368181736dddbe334ce84dd35"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.aarch64-linux-gnu.tar.gz"
+[[GLU]]
+arch = "aarch64"
+git-tree-sha1 = "91f9df0e79598916cfd36d5515bc97a412fac6d3"
+libc = "musl"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "c752e07b74f68255ac3ae4ca0f341ac160f8f91124eadd9e89df360da1abe46a"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.aarch64-linux-musl.tar.gz"
+[[GLU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba8ed0f1278418f73ae6bf8f4e7e27c3b910b22b"
+libc = "glibc"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "57f01ba0b1d2446ce892f6941a74495c130577d7df9e9dbbab7449a6e3e80283"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[GLU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "44316ff7a8084e9297820d038e0aa33510dedb4d"
+libc = "musl"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "e67a79fd5865a50c564672d55a9990eafe976dc3c1fc82a8ce7604c21c6eb7f2"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.armv7l-linux-musleabihf.tar.gz"
+[[GLU]]
+arch = "i686"
+git-tree-sha1 = "f384cdbd2549fa1ac5ceefd7f8724c7a6ae76823"
+libc = "glibc"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "61442f182a1d9357fb7eff0cde9b649cea51cabef7a238d0fe5b0e0540998502"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.i686-linux-gnu.tar.gz"
+[[GLU]]
+arch = "i686"
+git-tree-sha1 = "7a0474309e8ac0c64790de50c0e46ed879c7db5a"
+libc = "musl"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "454cb3df19734eec36db6f8f96ebe58c7e7bf0792f929366c23d88ae1c40b08d"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.i686-linux-musl.tar.gz"
+[[GLU]]
+arch = "powerpc64le"
+git-tree-sha1 = "6757bd1f0d7888a68e6b23075456ac57b0c4cc10"
+libc = "glibc"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "485f2891190e97452f14b085a0366309b1bda1bfb64eee72cd1407d3a775fae9"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.powerpc64le-linux-gnu.tar.gz"
+[[GLU]]
+arch = "x86_64"
+git-tree-sha1 = "bf247564b7ac45f1cc7df095beb461b761d86d3c"
+libc = "glibc"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "e9028c077b738c5beb7b7bc207e0c023b95dd9b74803da69058d05cef5a5ea1d"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.x86_64-linux-gnu.tar.gz"
+[[GLU]]
+arch = "x86_64"
+git-tree-sha1 = "209886c6a3e29467b7d9454027addac2115aac2b"
+libc = "musl"
+os = "linux"
+
+    [[GLU.download]]
+    sha256 = "eb887c90dbb0f36ebbc372f6b0e5fd062e5b180b9674ce951930fc9187c81bd9"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.x86_64-linux-musl.tar.gz"
+[[GLU]]
+arch = "x86_64"
+git-tree-sha1 = "faef4e273d51fcb6d8863c4cbc92b883ce041990"
+os = "freebsd"
+
+    [[GLU.download]]
+    sha256 = "beb5ca0773f0b76a5c110ef24a00be19348a19e8406b252240cbae8a14fb1a6f"
+    url = "https://github.com/JuliaBinaryWrappers/GLU_jll.jl/releases/download/GLU-v9.0.1+0/GLU.v9.0.1.x86_64-unknown-freebsd.tar.gz"
